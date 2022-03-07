@@ -1,7 +1,7 @@
 ## Hi! I'm Jesser Ferreira, how are you bro?
 
-- 👔 I currently work as a support analyst.
-- 📚 I am currently a systems analysis and development student
+- 👔 I'm currently work as a support analyst.
+- 📚 I'm currently a systems analysis and development student.
 - 💻 I'm currently updating in HTML-CSS-Javascript.
 - 👨🏻‍💻 I'm looking for frontend opportunity.
 - 🧔🏻 Pronouns: he/him.
