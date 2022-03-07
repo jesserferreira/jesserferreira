@@ -5,8 +5,8 @@
 - 💻 I'm currently updating in HTML-CSS-Javascript.
 - 👨🏻‍💻 I'm looking for frontend opportunity.
 - 🧔🏻 Pronouns: he/him.
-
-<div align="left">
+##
+<div align="center">
   <a href="https://github.com/jesserferreira">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=jesserferreira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesserferreira&layout=compact&langs_count=7&theme=tokyonight"/>
