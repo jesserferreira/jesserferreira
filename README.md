@@ -6,12 +6,6 @@
 - 👨🏻‍💻 I'm looking for frontend opportunity.
 - 🧔🏻 Pronouns: he/him.
 ##
-  <div align="center">
-  <a href="https://github.com/jesserferreira">
-<!--   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jesserferreira&show_icons=true&theme=tokyonight&include_all_commits=true&?count_private=true"/> -->
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=jesserferreira&show_icons=true&theme=tokyonight"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesserferreira&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
   
   <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Javascript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
